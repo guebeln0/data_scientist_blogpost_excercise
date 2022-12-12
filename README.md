@@ -1,4 +1,4 @@
-# ### Project description
+### Project description
 This project is part of the Udacity course for Data Scientist. The corresponding
 Blog can be found on medium:
 https://medium.com/@nicolas.guebel/whats-driving-the-price-of-a-night-s-stay-1eb786cb664c.

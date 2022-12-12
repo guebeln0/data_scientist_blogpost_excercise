@@ -4,7 +4,7 @@ Blog can be found on medium:
 https://medium.com/@nicolas.guebel/whats-driving-the-price-of-a-night-s-stay-1eb786cb664c.
 
 The project analyses AirBnB data for two cities Seatle and Boston.
-We invesgate questions related to accommodation pricing:
+We investigate questions related to accommodation pricing:
 - pricing fluctuation over time and see if patterns can be found.
 - identifies features that correlates with pricing of accommodation.
 
@@ -20,7 +20,13 @@ We invesgate questions related to accommodation pricing:
 -- boston_data: contains 3 csv files with data from Boston
 -- seatle_data: contains 3 csv files with data from Seatle
 
-LICENSE: MIT license
-
 ### Instructions:
 - required python packages: pandas, matplotlib, plotly, sklearn
+
+### Acknowledgments
+
+Dataset credit: AirBnd on Kaggle
+https://www.kaggle.com/datasets/airbnb/seattle
+https://www.kaggle.com/datasets/airbnb/seattle
+
+### LICENSE: MIT license

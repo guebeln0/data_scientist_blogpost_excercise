@@ -23,4 +23,4 @@ We invesgate questions related to accommodation pricing:
 LICENSE: MIT license
 
 ### Instructions:
-- required python packages: pandas, plotly, sklearn
+- required python packages: pandas, matplotlib, plotly, sklearn
